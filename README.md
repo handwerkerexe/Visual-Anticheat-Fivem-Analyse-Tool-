@@ -38,7 +38,7 @@ Possible actions:
 
 Server owners will be able to manage their Visual Analyse configuration through Discord.
 
-**Discord:** `[visualanticheat](https://discord.gg/YtArqCevRj)`
+**Discord:** https://discord.gg/YtArqCevRj
 
 ### Goal
 
@@ -78,7 +78,7 @@ Mögliche Maßnahmen:
 
 Serverinhaber können ihre Visual Analyse Einstellungen über Discord verwalten.
 
-**Discord:** `[visualanticheat](https://discord.gg/YtArqCevRj)`
+**Discord:** https://discord.gg/YtArqCevRj
 
 ### Ziel
 
